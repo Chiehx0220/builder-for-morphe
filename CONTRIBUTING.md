@@ -46,7 +46,7 @@ All configuration lives in `config.toml` in the project root. Top-level keys def
 [SomeApp]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/inc/app"
 # uptodown-dlurl = "https://app.en.uptodown.com/android"
-# github-dlurl = "https://github.com/<owner>/<repo>/releases/tag/app"
+# github-dlurl = "https://github.com/owner/repo/releases/tag/app"
 ```
 
 1. 📱 **Available options**:
