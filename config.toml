@@ -676,6 +676,16 @@ changelog-keywords = ["Windscribe"]
 [Windscribe-VPN.patches]
 "github:rushiranpise/morphe-patches" = []
 
+[KineStop]
+enabled = true
+brand = "rushi"
+github-dlurl = "https://github.com/Chiehx0220/builder-for-morphe/releases/tag/com.urbandroid.kinestop"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/urbandroid-team/kinestop-car-sickness-aid/"
+changelog-keywords = ["KineStop"]
+
+[KineStop.patches]
+"github:rushiranpise/morphe-patches" = []
+
 [Adobe-Acrobat-Reader] 
 enabled = false
 brand = "hooman"
