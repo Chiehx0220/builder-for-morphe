@@ -832,6 +832,7 @@ brand = "jasonwu1994"
 github-dlurl = "https://github.com/Chiehx0220/builder-for-morphe/releases/tag/com.google.android.inputmethod.latin"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/gboard-google-keyboard/"
 uptodown-dlurl = "https://gboard-go.en.uptodown.com/android"
+arch = "arm64-v8a"
 
 [Gboard.patches]
 "github:jasonwu1994/Gboard-patches" = []
