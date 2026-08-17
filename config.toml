@@ -826,6 +826,17 @@ uptodown-dlurl = "https://gboard-go.en.uptodown.com/android"
 [Gboard.patches]
 "github:jasonwu1994/Gboard-patches" = []
 
+[LINE]
+enabled = true
+brand = "andrew"
+github-dlurl = "https://github.com/Chiehx0220/builder-for-morphe/releases/tag/jp.naver.line.android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/line-corporation/line/"
+uptodown-dlurl = "https://line.en.uptodown.com/android"
+arch = "both"
+
+[LINE.patches]
+"github:andrewliang25/morphe-patches" = []
+
 [Google-Photos]
 enabled = false
 brand = "de-vanced"
